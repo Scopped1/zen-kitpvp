@@ -1,0 +1,4 @@
+name: zen-kitpvp
+version: "${version}"
+main: xyz.scopped.zenkitpvp.ZenKitPvPBootstrap
+load: POSTWORLD
